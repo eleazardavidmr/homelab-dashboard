@@ -28,7 +28,7 @@ export default function TopBar() {
       <header className="bg-surface-container border-b border-outline-variant flex items-center justify-between w-full px-margin-desktop py-sm sticky top-0 z-50">
         <div className="flex items-center gap-md">
           <div className="font-label-mono text-headline-md font-bold text-accent-blue uppercase tracking-tighter">
-            MINEROZ.ONLINE
+            EDMR.DEV
           </div>
           <div className="hidden md:block h-4 w-px bg-outline-variant"></div>
           <div className="hidden md:block font-label-mono text-sm text-on-surface-variant tracking-widest">

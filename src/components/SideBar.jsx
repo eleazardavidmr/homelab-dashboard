@@ -7,7 +7,7 @@ export default function SideBar() {
         </div>
         <div>
           <div class="font-label-mono text-xs text-primary leading-none">
-            MINEROZ
+            EDMR
           </div>
           <div class="font-label-mono text-[10px] text-on-surface-variant leading-none mt-1">
             V-NODE-01
